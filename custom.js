@@ -1066,7 +1066,7 @@ $(window).enllax();
 
 document.addEventListener('DOMContentLoaded', () => {
     const slides = [
-        'images/slides/v1-1.jpg',
+        'images/slides/v1-14.jpg',
         'images/slides/v1-2.jpg',
         'images/slides/v1-3.jpg',
         'images/slides/v1-4.jpg',
