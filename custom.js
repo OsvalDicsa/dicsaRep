@@ -1068,7 +1068,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const slides = [
         'images/slides/v1-14.jpg',
         'images/slides/v1-2.jpg',
-        'images/slides/v1-3.jpg',
         'images/slides/v1-4.jpg',
         'images/slides/v1-5.jpg',
         'images/slides/v1-6.jpg',
